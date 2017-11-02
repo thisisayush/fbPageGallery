@@ -1,4 +1,4 @@
-=== fbGallery: A responsive Facebook Page Gallery Plugin ===
+=== fbPageGallery: A responsive Facebook Page Gallery Plugin ===
 Contributors: thisisayush
 Tags: facebook, gallery, facebook gallery, facebook albums, facebook album gallery, facebook albums gallery
 Author: Ayush Agarwal
